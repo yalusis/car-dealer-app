@@ -23,5 +23,5 @@ The Vehicle Filtering App is a web application designed to allow users to filter
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yalusis/car-dealer-app/tree/main
+   git clone https://github.com/yalusis/car-dealer-app.git
 
